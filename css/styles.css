@@ -398,11 +398,7 @@ header .container {
 
 }
 
-.footer-wrapper .container {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-}
+
 
 footer a {
     display: inline-block;
